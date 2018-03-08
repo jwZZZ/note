@@ -1,0 +1,4 @@
+由于mac没有装office
+所有利用pages编辑文档，但是pages没有公式，所以利用mac终端安装mathtype插件，使得pages也可以插入公式
+
+在安装mathtype的时候，利用到homebrew 软件包管理工具，拥有安装、更新、卸载、查看、搜索等实用功能。实现包管理。
